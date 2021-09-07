@@ -4,13 +4,12 @@ A game framework by Jordan Demske.
 This is the first of a multi-part project in which I will build a 2D physics-based action game along the lines of Angry Birds. This iteration will focus on the core physics-based gameplay. Future parts will build upon this to improve player experience.
 
 ### Controls:
-- Left and Right arrow keys control launch angle
-- Spacebar launches main character.
+- UP arrow/w and Down arrow/s keys control launch angle
+- Spacebar fires main character.
 
 ## Project Report
-(Project report goes here)
 
-Reflection:
+Reflection: This project was very fun to work on. I enjoyed getting my hands on some of the engine systems I was unfarmiliar with. That being said, I need to work on my time management. This project, and I'm assuming future projects take quite a bit of time to complete. Time that I did not account for. I would have liked to put more time in to this project, and will most likely do so later, maybe using a save point if applicable.
 
 Self Evaluation:
 
@@ -26,14 +25,14 @@ Self Evaluation:
 - [x] C-7: The player can fire the projectile.
 - [x] C-8: The projectile's flight is affected by gravity using Godot Engine's physics system.
 - [x] C-9: There is a &ldquo;ground&rdquo; that stops the projectile.
-- [ ] C-10: There is a non-ground target that the projectile can hit.
-- [ ] B-1: The <code>README.md</code> file contains a personal reflection on the iteration and self-evaluation, as defined above.
+- [x] C-10: There is a non-ground target that the projectile can hit.
+- [x] B-1: The <code>README.md</code> file contains a personal reflection on the iteration and self-evaluation, as defined above.
 - [ ] B-2: The projectile's firing angle is clamped between 0&deg; (straight forward) and 90&deg; (straight up).
 - [ ] A-1: The player can modify the strength of the projectile's firing.
 - [ ] A-2: There is a visual indicator showing the angle at which the projectile will fire.
-- [ ] A-3: The projectile's hitting the target is recognized and logged to the console or otherwise indicated.
+- [x] A-3: The projectile's hitting the target is recognized and logged to the console or otherwise indicated.
 
-I believe that this project has earned a grade of ___ in accordance with the required documentation and functionality.
+I believe that this project has earned a grade of _C_ in accordance with the required documentation and functionality.
 
 ## Third Party Assets
 Character sprites are from "Animal Pack Redux". Created in 2018 by kenney.nl,
