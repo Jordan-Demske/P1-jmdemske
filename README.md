@@ -1,7 +1,7 @@
-# Project 1, Iteration 1: 2D Physics-Based Gameplay
+# Project 1, Iteration 2: Graphics and Sound
 A game framework by Jordan Demske.
 
-This is the first of a multi-part project in which I will build a 2D physics-based action game along the lines of Angry Birds. This iteration will focus on the core physics-based gameplay. Future parts will build upon this to improve player experience.
+This is a multi-part project in which I will build a 2D physics-based action game along the lines of Angry Birds. This iteration will focus on sounds and graphics. Future parts will build upon this to improve player experience.
 
 ### Controls:
 - UP-arrow/W and DOWN-arrow/S keys control launch angle
