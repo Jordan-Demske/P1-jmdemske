@@ -49,4 +49,7 @@ https://www.kenney.nl/assets/pixel-platformer
 [CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/). Source:
 https://www.kenney.nl/assets/background-elements-redux
 
+- Launch sound is from "8-Bit Cannon.wav". Created in 2020 by [DeVern](https://freesound.org/people/DeVern/),
+[CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/). Source: https://freesound.org/people/DeVern/sounds/517664/
+
 - [Roboto](https://fonts.google.com/specimen/Roboto) licensed under [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0).

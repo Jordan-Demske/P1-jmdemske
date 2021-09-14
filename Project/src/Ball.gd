@@ -13,6 +13,7 @@ func _process(delta):
 	if Input.is_action_just_pressed("launch"):
 		var impulse = Vector2.RIGHT.rotated(deg2rad(_angle)) * _power
 		apply_impulse(Vector2.ZERO, impulse)
+		$AudioStreamPlayer.play()
 		
 	var angle_change = _process_angle_change_input(delta)
 	_angle = clamp(_angle + angle_change, -90, 0)
