@@ -7,7 +7,6 @@ This is the first of a multi-part project in which I will build a 2D physics-bas
 - UP-arrow/W and DOWN-arrow/S keys control launch angle
 - LEFT/RIGHT-arrows control launch power
 - SPACEBAR launches character
-- RESET-BUTTON resets the game
 
 ## Project Report
 
@@ -29,8 +28,8 @@ Self Evaluation:
 - [x] C-9: There is a &ldquo;ground&rdquo; that stops the projectile.
 - [x] C-10: There is a non-ground target that the projectile can hit.
 - [x] B-1: The <code>README.md</code> file contains a personal reflection on the iteration and self-evaluation, as defined above.
-- [ ] B-2: The projectile's firing angle is clamped between 0&deg; (straight forward) and 90&deg; (straight up).
-- [ ] A-1: The player can modify the strength of the projectile's firing.
+- [x] B-2: The projectile's firing angle is clamped between 0&deg; (straight forward) and 90&deg; (straight up).
+- [x] A-1: The player can modify the strength of the projectile's firing.
 - [ ] A-2: There is a visual indicator showing the angle at which the projectile will fire.
 - [x] A-3: The projectile's hitting the target is recognized and logged to the console or otherwise indicated.
 
@@ -45,4 +44,4 @@ https://www.kenney.nl/assets/animal-pack-redux
 [CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/). Source:
 https://www.kenney.nl/assets/pixel-platformer
 
-- [Roboto]() make sure to finish this 
+- [Roboto](https://fonts.google.com/specimen/Roboto) licensed under [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0).
