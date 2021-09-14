@@ -4,8 +4,10 @@ A game framework by Jordan Demske.
 This is the first of a multi-part project in which I will build a 2D physics-based action game along the lines of Angry Birds. This iteration will focus on the core physics-based gameplay. Future parts will build upon this to improve player experience.
 
 ### Controls:
-- UP arrow/w and Down arrow/s keys control launch angle
-- Spacebar fires main character.
+- UP-arrow/W and DOWN-arrow/S keys control launch angle
+- LEFT/RIGHT-arrows control launch power
+- SPACEBAR launches character
+- RESET-BUTTON resets the game
 
 ## Project Report
 
@@ -35,10 +37,12 @@ Self Evaluation:
 I believe that this project has earned a grade of _C_ in accordance with the required documentation and functionality.
 
 ## Third Party Assets
-Character sprites are from "Animal Pack Redux". Created in 2018 by kenney.nl,
+- Character sprites are from "Animal Pack Redux". Created in 2018 by kenney.nl,
 [CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/). Source:
 https://www.kenney.nl/assets/animal-pack-redux
 
-Tilemap images are from "Pixel Platformer". Created in 2021 by kenney.nl,
+- Tilemap images are from "Pixel Platformer". Created in 2021 by kenney.nl,
 [CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/). Source:
 https://www.kenney.nl/assets/pixel-platformer
+
+- [Roboto]() make sure to finish this 
