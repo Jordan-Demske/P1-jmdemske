@@ -1,4 +1,4 @@
-# Project 1, Iteration 2: Graphics and Sound
+# Project 1, Iteration 3: Titles and Animation
 A game framework by Jordan Demske.
 
 This is a multi-part project in which I will build a 2D physics-based action game along the lines of Angry Birds. This iteration will focus on sounds and graphics. Future parts will build upon this to improve player experience.
@@ -10,7 +10,7 @@ This is a multi-part project in which I will build a 2D physics-based action gam
 
 ## Project Report
 
-Reflection: I'm glad to be working in this engine, and this project. I've wanted to make my own games for a while, and this seems like the perfect place to start. The software makes it easy to impliment audio, graphics, and objects, many of which I know how to make custom assets for. The lessons I'm learning right now will help me to make my own projects later on, and that makes me very happy.
+Reflection: This iterations goals were interesting. They focused less on the functionality of godot, and more on polish/formatting existing code. I went for a B, because I want to balance my course load. I would liked to have gone for an A, but I didn't think it was reasonable at the time. I will go back through on my own time and work through the remaining checks for this iteration most likely this coming weekend, after I turn in a few other projects.
 
 Self Evaluation:
 
@@ -22,14 +22,15 @@ Self Evaluation:
 - [x] C-3: You have a clear legal right to use all incorporated assets, and the licenses for all third-party assets are tracked in the <code>README.md</code> file.
 - [x] C-4: The <code>README.md</code> contains instructions for how to play the game or such instructions are incorporated into the game itself.
 - [x] C-5: The project content is eligible for an <a href="https://www.esrb.org/ratings-guide/">ESRB Rating</a> of T or less.
-- [x] C-6: The projectile and targets are shown with 2D graphics.
-- [x] C-7: The game plays an appropriate sound effect when the projectile is fired.
+- [x] C-6: The game starts on a title screen. Interacting with the title screen moves the player into the gameplay screen.
 - [x] B-1: The <code>README.md</code> file contains a personal reflection on the iteration and self-evaluation, as defined above.
 - [x] B-2: Earn one star.
-- [ ] A-1: Earn three stars.
-- [ ] ⭐ The player has a small inventory of projectiles, and only one can be launched at a time.
-- [x] ⭐ The background and ground use 2D graphics.
-- [ ] ⭐ A <abbr title="Heads-Up Display">HUD</abbr> shows the current game state such as the score and number of projectiles remaining.
+- [ ] A-1: Generate neither warnings nor errors at runtime.
+- [ ] A-2: Earn three stars.
+- [ ] ⭐ When the game is over, the player can interact to take the game back to the title screen, from which the game can be played again.
+- [x] ⭐ Use an <code>AnimationPlayer</code> or <code>Tween</code> to add some pop to the user-interface.
+- [ ] ⭐ The source code complies with our adopted style guide.
+
 
 
 Grade Earned:
